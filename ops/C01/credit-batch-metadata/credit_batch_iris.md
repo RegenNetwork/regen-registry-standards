@@ -6,7 +6,7 @@
 
 | Metadata JSON-LD File | IRI   | Base64 encoded IRI
 |:--------------------- |:------|:--------
-| **[C01-verified-carbon-standard-credit-class.json](https://github.com/regen-network/regen-registry-ops/blob/main/C01/credit-class-metadata/C01-verified-carbon-standard-credit-class.json)** | regen:13toVgo5CCmQkPJDwLegtf4U1esW5rrtWpwqE6nSdp1ha9W88Rfuf5M.rdf | cmVnZW46MTN0b1ZnbzVDQ21Ra1BKRHdMZWd0ZjRVMWVzVzVycnRXcHdxRTZuU2RwMWhhOVc4OFJmdWY1TS5yZGY=
+| **[C01-verified-carbon-standard-credit-class.json](https://github.com/RegenNetwork/regen-registry-ops/blob/main/C01/credit-class-metadata/C01-verified-carbon-standard-credit-class.json)** | regen:13toVgo5CCmQkPJDwLegtf4U1esW5rrtWpwqE6nSdp1ha9W88Rfuf5M.rdf | cmVnZW46MTN0b1ZnbzVDQ21Ra1BKRHdMZWd0ZjRVMWVzVzVycnRXcHdxRTZuU2RwMWhhOVc4OFJmdWY1TS5yZGY=
 
 
 ### Credit Batch Metadata
